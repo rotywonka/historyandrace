@@ -25,21 +25,15 @@
    - The Congressional Black Caucus jumped right in bed with Nixon/Reagan. They would see Drugs and Crime and say that's the problem, ignoring Education and other social factors
    - If you're caught with powder cocaine than crack cocaine, one ounce of crack cocaine is equivalent in punishment as to having 100 ounce of powder cocaine.
    - ALEC = American Legislative Exchange Council
-
-
-* What is Race?
-
-* What is Racism?
+<<<<<<< HEAD
 
 * What if any is the most effective way of combatting racism
-
 ** 3 pages - Typed Written - Double Space (1 page each)
-
 ** Submit it in the *APA* format
 
 ** Due in Class 
-
-* More /inmates/, longer /sentences/, more /profit/ !!
+=======
+*** More /inmates/, longer /sentences/, more /profit/ !!
    - Bail is a classist concept because a rich white guy, or a rich black guy, on the other hand a poor white/black guy
    - can commit the same crime and the bail is set at $10,000,000 but the rich guy can bail himself out and the other couldn't
    - The whole notion of bail is corrupt because the law says you are "innocent until /proven/ guilty"
@@ -57,3 +51,25 @@
      - Black men (6% of the U.S. population) but over *40%* of the jail population
    - /One Slave free, Two Convict leasing, Three Jim Crow/
    - "The only thing necessary for evil to triumph is for good men to do nothing"
+   
+>>>>>>> 9d992401763df99f3b9875f17a834f080afcf09b
+* Week 9
+** Racism is an invisible system of discrimination and injustice that was established an is upheld by our social institutions
+** $120,000,000,000 government backed home loans
+   - White people Only (from 1934-1962)
+** Red lining
+   - Home loans provided in certain parts of town
+   - Realtors would literally put a *red* line on the map
+     + created "ghettos"
+   - Money was given only in the white part of the town
+     + No money was given to the black part of the town
+   - Maintained Segregation
+   - Deterred investments
+   - Economically advantaged whites
+   - *EDUCATIONAL ADVANTAGES*
+     + /Property Taxes/ fund school - Wealth
+   - *EMPLOYEE/CAREER ADVANTAGES*
+     + employers are 50% more likely to reply to "white" names. 
+   - Black men jailed 6x higher than white men
+   - Sentenced for crack is /100x/ harsher than for cocaine
+
